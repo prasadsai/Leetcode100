@@ -1,4 +1,4 @@
-public class binarySearchInsert {
+public class BinarySearchInsert {
     public int searchInsert(int[] nums, int target) {
         int start = 0, end = nums.length - 1;
         int mid;
